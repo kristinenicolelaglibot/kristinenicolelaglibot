@@ -1,6 +1,7 @@
 ## Hi, I'm Nicole ✨
 
 🎓 Electronics Engineering Graduate from Polytechnic University of the Philippines-Manila<br/>
+📜 Consistent DOST-SEI Scholar<br/>
 💼 AI Automation Specialist | Cloud and Networking Enthusiast | Technical Support<br/>
 👩‍💻 I build reliable, practical solutions that automate processes, resolve technical issues, and improve how teams work with data and technology.<br/>
 📁 View my resume here: <br/>
