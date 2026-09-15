@@ -6,7 +6,7 @@
 👩‍💻 I build reliable, practical solutions that automate processes, resolve technical issues, and improve how teams work with data and technology.<br/>
 📁 View my resume here: <br/>
 
-# 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -73,11 +73,6 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=kristinenicolelaglibot&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kristinenicolelaglibot&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kristinenicolelaglibot&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
