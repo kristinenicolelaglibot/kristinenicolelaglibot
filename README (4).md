@@ -35,7 +35,7 @@
     3. Copy that URL, paste it into the src="" below, and you can discard the issue (don't submit it).
   Once you have the URL, replace PASTE_RIDING_A_BIKE_VIDEO_URL_HERE below.
 -->
-<video src="https://github.com/user-attachments/assets/8cd05a0b-b954-49fd-a506-efdab692006c" autoplay loop muted playsinline width="420">
+<video src="https://github.com/user-attachments/assets/3335acb3-b4a6-41b9-ba90-5003e99112cb" autoplay loop muted playsinline width="420">
   Your browser does not support embedded video — <a href="PASTE_RIDING_A_BIKE_VIDEO_URL_HERE">watch it here</a>.
 </video>
 
