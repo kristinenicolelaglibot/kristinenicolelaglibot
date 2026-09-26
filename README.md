@@ -11,12 +11,6 @@
   folder, no file paths, nothing else to upload. Just this one README.md file.
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=C98EA6&height=120&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C98EA6&height=120&section=header" alt="header banner">
-</picture>
-
 <h1>Kristine Nicole L. Aglibot</h1>
 <p><b>Electronics Engineering Graduate | AWS re/Start Scholar | DOST Scholar</b></p>
 
@@ -473,15 +467,3 @@ A portable near-infrared spectroscopy device for early, non-destructive detectio
 
 2. **[Customer Support Ticket Automation](https://github.com/kristinenicolelaglibot/Customer-Support-Ticket-Automation)**
 An automation workflow that streamlines customer support ticket routing and handling.
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=C98EA6&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C98EA6&height=100&section=footer" alt="footer banner">
-</picture>
-
-</div>
