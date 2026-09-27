@@ -467,3 +467,6 @@ A portable near-infrared spectroscopy device for early, non-destructive detectio
 
 2. **[Customer Support Ticket Automation](https://github.com/kristinenicolelaglibot/Customer-Support-Ticket-Automation)**
 An automation workflow that streamlines customer support ticket routing and handling.
+
+3. **[IT Assist](https://github.com/kristinenicolelaglibot/IT-Assist)**
+An AI-powered IT support assistant that diagnoses technical issues, guides users through troubleshooting, and automatically creates support tickets when problems remain unresolved.
