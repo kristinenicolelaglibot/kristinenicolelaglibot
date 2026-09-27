@@ -14,6 +14,12 @@
 <h1>Kristine Nicole L. Aglibot</h1>
 <p><b>Electronics Engineering Graduate | AWS re/Start Scholar | DOST Scholar</b></p>
 
+<p>
+  <a href="https://drive.google.com/file/d/17-9OBU4MX7EdsrGYI02e6pDsQLIAnKfH/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-C98EA6?style=for-the-badge&logoColor=white" alt="View Resume">
+  </a>
+</p>
+
 </div>
 
 ---
