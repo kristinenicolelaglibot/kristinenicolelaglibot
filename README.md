@@ -15,7 +15,7 @@
 <p><b>Electronics Engineering Graduate | AWS re/Start Scholar | DOST Scholar</b></p>
 
 <p>
-  <a href="https://drive.google.com/file/d/1FuI8_gBLGbpMkxj_NJE96ZzmLuEVNasP/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1jF9fwHcbCnP0IHpQaz8MqBj-1mD-Qm_K/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-C98EA6?style=for-the-badge&logoColor=white" alt="View Resume">
   </a>
 </p>
