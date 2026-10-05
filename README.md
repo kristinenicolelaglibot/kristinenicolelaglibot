@@ -18,11 +18,8 @@
   <a href="https://drive.google.com/file/d/1jF9fwHcbCnP0IHpQaz8MqBj-1mD-Qm_K/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-C98EA6?style=for-the-badge&logoColor=white" alt="View Resume">
   </a>
-</p>
-
-<p>
-  <a href="i-am-knaglibot.aglibotkristinenicolel.workers.dev">
-    <img src="https://img.shields.io/badge/📄%20View%20My Website-C98EA6?style=for-the-badge&logoColor=white" alt="View My Website">
+  <a href="https://i-am-knaglibot.aglibotkristinenicolel.workers.dev/">
+    <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-C98EA6?style=for-the-badge&logoColor=white" alt="View Portfolio">
   </a>
 </p>
 
