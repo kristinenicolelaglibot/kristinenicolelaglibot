@@ -20,6 +20,12 @@
   </a>
 </p>
 
+<p>
+  <a href="i-am-knaglibot.aglibotkristinenicolel.workers.dev">
+    <img src="https://img.shields.io/badge/📄%20View%20My Website-C98EA6?style=for-the-badge&logoColor=white" alt="View My Website">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -469,10 +475,13 @@
 </div>
 
 1. **[Portable NIR Spectroscopy System for Early Black Pod Rot Detection](https://github.com/kristinenicolelaglibot/Portable-NIR-Spectroscopy-System-for-Early-Black-Pod-Rot-Detection)**
-A portable near-infrared spectroscopy device for early, non-destructive detection of black pod rot in cacao.
+A portable near-infrared spectroscopy system designed to support early, non-invasive detection of black pod rot in cacao using spectral analysis and machine learning.
 
 2. **[Customer Support Ticket Automation](https://github.com/kristinenicolelaglibot/Customer-Support-Ticket-Automation)**
-An automation workflow that streamlines customer support ticket routing and handling.
+An AI-powered workflow that automatically classifies, prioritizes, and routes incoming customer support tickets from Slack using Google Gemini, n8n, and Supabase.
 
 3. **[IT Assist](https://github.com/kristinenicolelaglibot/IT-Assist)**
-An AI-powered IT support assistant that diagnoses technical issues, guides users through troubleshooting, and automatically creates support tickets when problems remain unresolved.
+An AI helpdesk assistant that diagnoses technical issues, guides users through step-by-step troubleshooting, and creates support tickets when problems remain unresolved.
+
+5. **[CelebrateAI](https://github.com/kristinenicolelaglibot/CelebrateAI)**
+An AI-powered birthday planner that generates personalized party ideas, themes, food suggestions, activities, schedules, invitations, and shopping checklists based on a person's age, interests, and budget.
